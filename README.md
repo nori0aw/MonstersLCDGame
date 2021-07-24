@@ -10,6 +10,6 @@ Project Stuff:
 - LCD screen (16X2)
 - 2x 18650 battery
 - Switch button & 10k resistor 
-- battery holder with switch. 
+- Battery holder with switch. 
 
 ![alt text](https://github.com/nori0aw/MonstersLCDGame/blob/master/FreeCad_Files/Mosters%20Game%20Front.jpeg)
